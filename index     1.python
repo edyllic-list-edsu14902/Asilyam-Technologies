@@ -1,0 +1,23 @@
+Index          = 1;
+Index_of_index = 1;
+
+Index_of       = 1;
+
+i              = 0;
+j              = 0;
+k              = 1;
+
+h              = 8;
+C              = 16;
+
+E              = 65;
+
+if (E > C):
+
+    for x in range(E):
+        ++C;
+        print(C + k);
+    
+    for x in range(len("Scourge-Aforges")):
+        ++Index_of_index;
+    print("Invunerabilities", Index_of_index);
